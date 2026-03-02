@@ -1,7 +1,7 @@
 # :star: GitHub User Activity
 
 
-**Github User Activity** - is a CLI application that fetches and displays GitHub user activity.
+[**Github User Activity**](https://roadmap.sh/projects/github-user-activity) - is a CLI application that fetches and displays GitHub user activity.
 
 # :hammer_and_wrench: Installation:
 ### Quick Setup
