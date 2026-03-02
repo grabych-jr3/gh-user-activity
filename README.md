@@ -1,11 +1,9 @@
 # :star: GitHub User Activity
 
----
 
 **Github User Activity** - is a CLI application that fetches and displays GitHub user activity.
 
 # :hammer_and_wrench: Installation:
-___
 ### Quick Setup
 ```bash
     # Clone repository
@@ -16,8 +14,7 @@ ___
     mvn clean package
 ```
 
-# :octocat: Usage
-___
+# :mag: Usage
 After installation you can use:
 ```bash
     java -jar target/github-activity.jar <github-username>
@@ -33,7 +30,6 @@ The tool will:
 3. Display a readable message
 
 # :gear: Technologies
-___
 + Java 25
 + Jackson 3.1.0
 
